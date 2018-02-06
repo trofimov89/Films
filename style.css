@@ -1,3 +1,11 @@
+body {
+  background-color: #58a8d6;
+  background: linear-gradient(to right, black, #58a8d6 60%);
+  margin: 0px;
+    }
+
+
+
 .container-fluid {
   background-color: #373d51;
 }
@@ -34,7 +42,8 @@
 }
 
   .container .row .thumbnail img:hover {
-    animation: bounce 1s
+    animation: bounce 1s;
+
   }
 
 
