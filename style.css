@@ -1,7 +1,6 @@
-.container {
-  background-color: auto;
+.container-fluid {
+  background-color: #373d51;
 }
-
 
 .container .jumbotron {
   background-image: url(https://freshfilmsfest.net/wp-content/uploads/2016/07/Film.jpg);
