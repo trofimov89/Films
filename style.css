@@ -1,0 +1,47 @@
+.container {
+  background-color: auto;
+}
+
+
+.container .jumbotron {
+  background-image: url(https://freshfilmsfest.net/wp-content/uploads/2016/07/Film.jpg);
+}
+
+.container .jumbotron h1 {
+    color: #27df86;
+    margin-top: 50px;
+}
+
+.container .jumbotron p {
+    color: #2fcdd9;
+    margin-left: 250px;
+  }
+
+
+.conainer .footer .row {
+  display: inline-block;
+  float: right;
+}
+
+.container .footer .row .contact {
+  float: left;
+  width: 30%;
+}
+
+.container .footer .row .feedback {
+  float: right;
+  width: 30%;
+  }
+
+.container .footer .row .links {
+  width: 30%;
+  float: right;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.container .footer .row  {
+  background-image: url("https://www.ebu.ch/files/live/sites/ebu/files/Projects/TV/Exchanges/EurovisionFilmWeek_flyer_picture%20(2).jpg");
+  padding: 10px;
+  background-size: cover;
+}

@@ -1,0 +1,26 @@
+/* .border {
+  border: 1px solid black;
+  padding: 10px;
+} */
+
+.container span {
+  background-color: #91ec71;
+}
+
+.container input {
+  background-color: #e2eeee;
+}
+
+/* img {
+  width: 200px;
+} */
+
+table th, td {
+  border: 1px solid black;
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: green;
+    border-color: #ddd;
+}
