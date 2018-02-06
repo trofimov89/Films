@@ -14,6 +14,7 @@ body {
   background-image: url(https://freshfilmsfest.net/wp-content/uploads/2016/07/Film.jpg);
 }
 
+
 .container .jumbotron h1 {
     color: #27df86;
     margin-top: 50px;
@@ -43,6 +44,8 @@ body {
 
   .container .row .thumbnail img:hover {
     animation: bounce 1s;
+    filter: grayscale(50%);
+  }
 
   }
 
