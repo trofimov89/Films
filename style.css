@@ -54,8 +54,7 @@ body {
 
 .container .footer .row .contact {
   float: left;
-  width: 30%;
-}
+  }
 
 .container .footer .row .feedback {
   float: right;
